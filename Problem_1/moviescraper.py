@@ -67,7 +67,7 @@ def main(actor_name): #main function that intergrates the above two functionalit
         print(f"No IMDb link found for {actor_name}")
 
 #Input-> Name of the Actor 
-#Ouput->List of movies in ascending order 
+#Ouput->List of movies in Descending order 
 
 actor_name = input("Enter the name of the Actor:  ")  
 main(actor_name)
